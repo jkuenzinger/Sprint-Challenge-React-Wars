@@ -1,0 +1,21 @@
+ What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
+
+React Js is a way of creating components on a large scale. By using React JS we are able to break out apps down into smaller components that are not static. State can be updated
+and changed and is not static which is why  React is so helpful for creating components and building apps with Javascript. You also can combine the use of css, javascript, and html to 
+create your whole app in one enviorment. 
+
+What does it mean to think in react?
+It means the way it's laid out basically laying out your site and breaking it down into components, while mantaining your state and passing it down to the components in the right heiarchy. 
+
+ Describe state.
+ State is the current state of the application it can be a string or a number. Basically state is the current value of your appliation wether your data is a string, number, etc. 
+
+
+ Describe props.
+Props are properties that are handed down to child components. So you can pass down a set of props which is in a way your data to a child component. We do this so that we do not have to access 
+the data and properties in every component. We can simply have them inherit the props form a parent component we have already declared and reuse them as many times as we want. 
+
+ What are side effects, and how do you sync effects in a React component to state or prop changes?
+
+
+ Side effects are basically something that affects anything outside the scope of the fucntion that is currently being excecuted. WE use effect hooks to sync effects inside a react component. 
