@@ -10,6 +10,9 @@ justify-content: space-between;
 justify-content: center;
 border-style: solid 1px;
 margin-left: 30%;
+margin-bottom:50px;
+background-color: #E4E4E4;
+box-shadow: 10px 15px  #FFD700;
 
 `;
 
